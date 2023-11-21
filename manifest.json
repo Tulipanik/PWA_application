@@ -1,0 +1,9 @@
+{
+  "name": "BookApp",
+  "short_name": "BookApp",
+  "start_url": "./Views/index.html",
+  "display": "standalone",
+  "background_color": "#fdfdfd",
+  "theme_color": "#db4938",
+  "orientation": "portrait-primary"
+}
